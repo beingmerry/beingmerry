@@ -7,7 +7,7 @@
     - Smaller code edits, maintaining projects, building tools
 - 📫 How to reach me ...
     - Message me on here or find me on my other social media sites
-    
+    - Add me on LinkedIn |🔗 https://www.linkedin.com/in/benmerryman
 <!---
 beingmerry/beingmerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
