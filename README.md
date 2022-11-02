@@ -9,6 +9,11 @@
 - 📫 How to reach me ...
     - Message me on here or find me on my other social media sites
     - Add me on LinkedIn |🔗 https://www.linkedin.com/in/benmerryman
+- 🏔️ Flatiron Resources
+    - Phase 1️⃣ https://github.com/beingmerry/SENG-LIVE-103122-Phase-1-JS
+    - Phase 2️⃣ 
+    - 
+
 <!---
 beingmerry/beingmerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
