@@ -11,8 +11,9 @@
     - Add me on LinkedIn |🔗 https://www.linkedin.com/in/benmerryman
 - 🏔️ Flatiron Resources
     - Phase 1️⃣ https://github.com/beingmerry/SENG-LIVE-103122-Phase-1-JS
+        - Notes 📝 https://1drv.ms/u/s!ApQnruBM2i6Kgd1j577uj-m3k6p0TA?e=ryq6Ob
     - Phase 2️⃣ 
-    - 
+    -  
 
 <!---
 beingmerry/beingmerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
