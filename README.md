@@ -1,6 +1,6 @@
 # Hello World! It's me: Ben Merryman
 
-[self.json](https://github.com/beingmerry/beingmerry/blob/main/self.json%20at%202023-01-30%20193115.png)
+![self.json](https://github.com/beingmerry/beingmerry/blob/main/self.json%20at%202023-01-30%20193115.png)
 # ToDo
 
 - [x] Removed old README.md out of date text
