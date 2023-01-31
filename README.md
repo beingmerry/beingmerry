@@ -3,8 +3,9 @@
 ![self.json file with information about Ben Merryman](https://github.com/beingmerry/beingmerry/blob/main/self.json%20at%202023-01-30%20193115.png)
 
 # Projects
-[KangaBrew - Brew Hopp Companion App](https://beingmerry.github.io/phase-1-project/)
-App written in that most daunting of frameworks...Plain Old JavaScript!
+[KangaBrew - Brewery Hop Companion App](https://beingmerry.github.io/phase-1-project/)
+
+Find a brewery in your city and add it to your Brewery Hop!  Coded with Vanilla JavaScript, Bootstrap CSS, and HTML
 
 # ToDo
 
@@ -12,7 +13,7 @@ App written in that most daunting of frameworks...Plain Old JavaScript!
 - [x] Update README.md to have contact info
 - [ ] Use as template: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - [ ] Deploy projects and reference here
-  - [X] Deploy [Phase 1 - 
+  - [X] Deploy
   - [ ] Deploy Phase 2 - ZooWorld
   - [ ] Deploy Phase 3 - ActiviTracker
   - [ ] Deploy Phase 4 - Freddit (Reddit Clone)
