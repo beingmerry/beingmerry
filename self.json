@@ -1,6 +1,26 @@
 {
   "name": "Ben Merryman",
-  "label": "Full Stack Developer",
-  "url": "https://www.benmerryman.com"
-
+  "title": "Full-Stack Software Developer",
+  "location": "Philadelphia, PA",
+  "portfolio": "https://www.benmerryman.com",
+  "skills": [
+    "React",
+    "JavaScript",
+    "Render.com",
+    "Ruby",
+    "Rails",
+    "Git",
+    "HTML",
+    "CSS"
+  ],
+  "goals": [
+    "build a sustainable self and community",
+    "be a source of truth for a technology"
+  ],
+  "hobbies": [
+    "sailing",
+    "snowboarding",
+    "grand strategy computer games",
+    "board games"
+  ]
 }
