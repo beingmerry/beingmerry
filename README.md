@@ -4,7 +4,7 @@
 
 # Projects
 
-##[KangaBrew - Brewery Hop Companion App](https://beingmerry.github.io/phase-1-project/)
+## [KangaBrew - Brewery Hop Companion App](https://beingmerry.github.io/phase-1-project/)
 Find a brewery in your city and add it to your Brewery Hop!
 Coded with: Vanilla JavaScript, Bootstrap CSS, and HTML
 
