@@ -21,7 +21,7 @@
 ---
 
 ### :snowboarder: About Me:
-- :wave: I like to snowboard :snowboarder:, game (:game_die: or :video_game:), hike :mountain:, and sail :sailboat: while exploring from my home in Fort Collins :european_castle:, Colorado.
+- :wave: I like to snowboard :snowboarder:, game (:game_die: or :video_game:), hike :mountain:, and sail :sailboat: while exploring around my base in Fort Collins :european_castle:, Colorado.
 - :hammer: I have 7 years background as a control systems engineer :magic_wand: in pharma, natural gas, chemicals, biofuels, and paper industries.
 - :octocat: Recently, I expeanded my skillset into software engineering :nerd_face: with JavaScript, React, Ruby, and Ruby on Rails courses.
 - :school: Currently expanding my knowledge base (CS50, Python, DevOps) and portfolio while actively looking for work.
