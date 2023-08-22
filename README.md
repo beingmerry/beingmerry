@@ -18,8 +18,6 @@
   </h1>
 </div>
 
----
-
 ### :snowboarder: About Me:
 - :wave: I like to snowboard :snowboarder:, game (:game_die: or :video_game:), hike :mountain:, and sail :sailboat: while exploring around my home in Fort Collins :european_castle:, Colorado.
 - :hammer: I have 7 years background as a control systems engineer :magic_wand: in pharma, natural gas, chemicals, biofuels, and paper industries.
