@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=beingmerry&style=flat-square&color=blue" alt="Profile views"/>
 
   <h1>
-    Hey there 👋
+    Hey there
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NiOTZkOGI4ZTI0ODViOTNlZTJmYmQxY2Q2OWZhZTQ4ZjE4MmI5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
