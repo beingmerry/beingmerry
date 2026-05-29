@@ -27,9 +27,9 @@
 
 ### 🏭 About Me
 
-- 🔧 Senior controls engineer with **10+ years** across pharmaceutical manufacturing, paper mills, flour mills, natural gas, chemical plants, and energy systems — I've worked on a lot of different things and that's intentional
-- 💡 I specialize in bridging **OT and IT** — taking PLC/SCADA systems and connecting them to the data infrastructure, reporting tools, and interfaces that make them actually useful to the people running the plant
-- 🖥️ I write real code on top of my controls work — SQL, Python, TypeScript, VBA, and web tech — which means I can build the custom layer that off-the-shelf software can't
+- 🔧 Senior controls engineer with **10+ years** across pharmaceutical manufacturing, paper mills, flour mills, natural gas, chemical plants, and energy systems
+- 💡 I specialize in bridging **OT and IT** — taking PLC/SCADA systems and connecting them to the data infrastructure, reporting tools, and interfaces that make them actually useful to the people in charge of making it work
+- 🖥️ I write other code on top of my controls work — SQL, Python, TypeScript, VBA, and web tech — which means I can build the custom layer
 - 🌱 Always expanding: currently going deeper on Python, DevOps, and industrial networking
 - 🏔️ Outside work: snowboarding, hiking, sailing, and gaming around **Fort Collins, CO**
 - 🏄 Fun fact: I can do a headstand on a paddleboard. Working on the handstand.
